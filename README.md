@@ -1,5 +1,7 @@
 # Arithmetic Calculator Android App
 
+<img width="234" alt="Screenshot 2024-02-01 at 12 24 00 AM" src="https://github.com/mar19a/ArithmeticOperations/assets/84360137/fecf292c-9a44-4b45-aea2-5d73ede88eac">
+
 ## Overview
 This repository contains the source code for a simple Android arithmetic calculator app. The app provides a user-friendly interface that allows users to perform basic arithmetic operations such as addition, subtraction, multiplication, division, and modulus.
 
